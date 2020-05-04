@@ -1,3 +1,3 @@
 # Star Wars Repo
 
-![./starwars.png](Star Wars)
+![Star Wars](starwars.png)
